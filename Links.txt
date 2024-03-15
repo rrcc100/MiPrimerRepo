@@ -1,3 +1,0 @@
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing
-https://www.freecodecamp.org/espanol/news/explicacion-de-la-rama-de-gi-como-eliminar/ 
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
